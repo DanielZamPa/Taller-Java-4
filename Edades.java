@@ -27,6 +27,7 @@ public class Edades {
         }else {
             System.out.println("Ambos tienen la misma edad");
         }
+        scanner.close();
 
     }//Final clase main
 }//Cierre clase operadores
